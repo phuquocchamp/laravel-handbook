@@ -2,7 +2,7 @@
 
 #### 1. COURSES LINKS
 
-[RESTful API with Laravel: Build a Real API with Laravel](https://www.udemy.com/course/restful-api-with-laravel-php-homestead-passport-hateoas/#overview)
+[Master Laravel 10 for Beginners &amp; Intermediate 2023](https://iqbusiness.udemy.com/course/laravel-beginner-fundamentals/learn/lecture/38207848#content)
 
 [Laravel 10 - Build Multi Vendor Ecommerce Website (2023)](https://iqbusiness.udemy.com/course/complete-laravel-multi-vendor-ecommerce-project/)(
 
